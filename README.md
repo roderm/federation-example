@@ -1,5 +1,5 @@
 # Federation Demo
-
+Extended Example from [https://github.com/wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools)
 ## Getting started
 1. Install go modules
 ```shell
